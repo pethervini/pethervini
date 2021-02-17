@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, tudo bem?! 👋
 
 Me chamo Petherson, sou formado e Análise e Desenv. de Sistemas, sou programador .NET backend e gosto de técnologia e música.
 
